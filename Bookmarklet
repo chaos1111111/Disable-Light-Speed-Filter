@@ -1,6 +1,6 @@
 javascript:(function() {
-    const extensionId = 'your_extension_id_here';
-    chrome.management.setEnabled(extensionId, false, function() {
+    const extensionId = 'ehnniokiiebpinnfegpkdlcamgdcaaje/block_screen.html?id=c864f2c7-16f7-46fa-8def-a18143355a55';
+    chrome.management.setEnabled(ehnniokiiebpinnfegpkdlcamgdcaaje/block_screen.html?id=c864f2c7-16f7-46fa-8def-a18143355a55, false, function() {
         if (chrome.runtime.lastError) {
             alert('Error disabling extension: ' + chrome.runtime.lastError.message);
         } else {
