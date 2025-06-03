@@ -1,5 +1,5 @@
 javascript:(function() {
-    const extensionId = 'your_extension_id_here';
+    const extensionId = 'ehnniokiiebpinnfegpkdlcamgdcaaje/block_screen.html?id=53d05be6-5c91-4e5e-bec6-0cb9686ad066';
     chrome.management.setEnabled(extensionId, false, function() {
         if (chrome.runtime.lastError) {
             alert('Error disabling extension: ' + chrome.runtime.lastError.message);
